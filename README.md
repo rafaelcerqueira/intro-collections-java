@@ -21,6 +21,19 @@
 
 > interface Comparable* para comparar itens dentro da lista
 
+### Coleções singulares: Set
+#### java.util.Set
+
+- Não permite elementos duplicados
+- Não possui índice
+  - HashSet
+  - LinkedHashSet
+  - TreetSet
+
+
+
+
+
 ----------------------------------
 #### Conteúdo retirado do Curso Introdutório Collections Java
 - Conteúdo original no repositório do GitHub da Camila:
