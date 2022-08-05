@@ -19,6 +19,8 @@
 
 - ArrayList deve ser usado onde mais operações de pesquisa são necessárias, enquanto LinkedList deve ser usado onde mais operações de inserção e exclusão são necessárias.
 
+> interface Comparable* para comparar itens dentro da lista
+
 ----------------------------------
 #### Conteúdo retirado do Curso Introdutório Collections Java
 - Conteúdo original no repositório do GitHub da Camila:
