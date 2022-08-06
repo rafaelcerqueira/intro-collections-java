@@ -24,13 +24,19 @@
 ### Coleções singulares: Set
 #### java.util.Set
 
-- Não permite elementos duplicados
-- Não possui índice
-  - HashSet
-  - LinkedHashSet
-  - TreetSet
+- Não permite elementos duplicados;
+- Não possui índice.
+  - HashSet;
+  - LinkedHashSet;
+  - TreetSet;
 
-
+### Coleções de Pares: Map
+#### java.util.Map
+- Elementos únicos (key) para cada valor (value).
+  - Hashtable
+  - TreeMap
+  - Hashmap
+  - LinkedHashMap
 
 
 
